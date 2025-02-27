@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Android development**
 
-- 🌱 I’m currently learning **Kotlin - XML and Jetpack Compose**
+- 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me **emirsylemez@gmail.com**
 
