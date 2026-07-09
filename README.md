@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Emir Soylemez</h1>
+<h1 align="center">Emir Soylemez</h1>
 <h3 align="center">I'm software developer from Istanbul</h3>
 
-- 🔭 I’m currently working on **Android development**
-- 🌱 I’m currently learning **web development**
-- 📫 How to reach me **emirsylemez@gmail.com**
+-  I’m currently working on **Android development**
+-  I’m currently learning **web development**
+-  How to reach me **emirsylemez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
