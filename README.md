@@ -2,7 +2,7 @@
 <h3 align="center">I'm software developer from Istanbul</h3>
 
 -  I’m currently working on **.NET development**
--  I have experience with **Android development**
+-  I'm interested in **Web and Android development**
 -  How to reach me **emirsylemez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
